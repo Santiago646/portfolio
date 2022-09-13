@@ -1,8 +1,32 @@
-body {
-    background: lightgray;
+* {
+    padding: 40;
+    margin: 40;
 }
 
-p {
-    color: darkgoldenrod;
-    margin-left: 40px
+body {
+    border-radius: 23px;
+    background-color: lightgray;
+}
+
+div#inicio {
+    background-color: white;
+    border-radius: 10px;
+    border-color: black;
+}
+
+div#personal {
+
+    border-radius: 10px;
+    border-color: black;
+    padding: 20;
+    margin: 8px;
+}
+
+img#banner {
+    border-radius: 20px;
+}
+
+img#perfil {
+    border-radius: 10px;
+    margin: 8px;
 }
